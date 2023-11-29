@@ -1,0 +1,3 @@
+WIDTH = 720
+HEIGHT = 960
+FPS = 120
